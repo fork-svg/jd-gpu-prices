@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "timestamp": "2026-11-12T09:12:23.447868",
+  "timestamp": "2026-11-12T19:28:41.787818",
   "source": "simulated",
   "products": [
     {
@@ -11,10 +11,10 @@
       "model": "RTX 4060",
       "vram": "8GB",
       "url": "https://item.jd.com/100034567801.html",
-      "price": 2414.65,
-      "original_price": 2656.12,
+      "price": 2416.38,
+      "original_price": 2658.02,
       "in_stock": true,
-      "coupon": null
+      "coupon": 59.13
     },
     {
       "id": "100034567802",
@@ -24,10 +24,10 @@
       "model": "RTX 4060 Ti",
       "vram": "8GB",
       "url": "https://item.jd.com/100034567802.html",
-      "price": 3212.11,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
-      "coupon": 91.07
+      "in_stock": false,
+      "coupon": null
     },
     {
       "id": "100034567803",
@@ -37,10 +37,10 @@
       "model": "RTX 4070",
       "vram": "12GB",
       "url": "https://item.jd.com/100034567803.html",
-      "price": null,
-      "original_price": null,
-      "in_stock": false,
-      "coupon": null
+      "price": 4240.98,
+      "original_price": 4665.08,
+      "in_stock": true,
+      "coupon": 134.51
     },
     {
       "id": "100034567804",
@@ -50,10 +50,10 @@
       "model": "RTX 4070 Super",
       "vram": "12GB",
       "url": "https://item.jd.com/100034567804.html",
-      "price": null,
+      "price": 4983.59,
       "original_price": null,
-      "in_stock": false,
-      "coupon": null
+      "in_stock": true,
+      "coupon": 186.79
     },
     {
       "id": "100034567805",
@@ -63,10 +63,10 @@
       "model": "RTX 4070 Ti Super",
       "vram": "16GB",
       "url": "https://item.jd.com/100034567805.html",
-      "price": 6588.53,
-      "original_price": 7247.38,
+      "price": 6462.59,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 154.72
+      "coupon": null
     },
     {
       "id": "100034567806",
@@ -76,10 +76,10 @@
       "model": "RTX 4080 Super",
       "vram": "16GB",
       "url": "https://item.jd.com/100034567806.html",
-      "price": 8965.22,
-      "original_price": null,
+      "price": 8846.89,
+      "original_price": 9731.58,
       "in_stock": true,
-      "coupon": null
+      "coupon": 92.0
     },
     {
       "id": "100034567807",
@@ -89,10 +89,10 @@
       "model": "RTX 4090",
       "vram": "24GB",
       "url": "https://item.jd.com/100034567807.html",
-      "price": 14952.29,
+      "price": 15147.01,
       "original_price": null,
       "in_stock": true,
-      "coupon": 177.99
+      "coupon": null
     },
     {
       "id": "100034567808",
@@ -102,10 +102,10 @@
       "model": "RX 7600",
       "vram": "8GB",
       "url": "https://item.jd.com/100034567808.html",
-      "price": 1940.63,
-      "original_price": null,
+      "price": 1904.42,
+      "original_price": 2094.86,
       "in_stock": true,
-      "coupon": 118.5
+      "coupon": null
     },
     {
       "id": "100034567809",
@@ -128,8 +128,8 @@
       "model": "RX 7800 XT",
       "vram": "16GB",
       "url": "https://item.jd.com/100034567810.html",
-      "price": 4060.06,
-      "original_price": null,
+      "price": 3982.65,
+      "original_price": 4380.92,
       "in_stock": true,
       "coupon": null
     },
@@ -141,8 +141,8 @@
       "model": "RX 7900 XT",
       "vram": "20GB",
       "url": "https://item.jd.com/100034567811.html",
-      "price": 5576.08,
-      "original_price": 6133.69,
+      "price": 5598.23,
+      "original_price": null,
       "in_stock": true,
       "coupon": null
     },
@@ -154,10 +154,10 @@
       "model": "RX 7900 XTX",
       "vram": "24GB",
       "url": "https://item.jd.com/100034567812.html",
-      "price": null,
-      "original_price": null,
-      "in_stock": false,
-      "coupon": null
+      "price": 7551.71,
+      "original_price": 8306.88,
+      "in_stock": true,
+      "coupon": 178.61
     }
   ]
 }
